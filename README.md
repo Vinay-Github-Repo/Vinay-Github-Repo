@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spring Boot
 - ⚡ Fun fact: I'm passionate about coding! 🖊️
 - 💬 Ask me about DSA 
-- 📫 How to reach me: VinayVastrakar13@gmail.com
+- 📫 How to reach me: Vinay.git.repo@gmail.com
